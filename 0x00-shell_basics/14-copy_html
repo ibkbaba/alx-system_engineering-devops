@@ -1,2 +1,3 @@
 #!/bin/bash
-best
+cp -rua *.html ../
+

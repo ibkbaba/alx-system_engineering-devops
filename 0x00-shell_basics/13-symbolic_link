@@ -1,2 +1,2 @@
 #!/bin/bash
-sleep
+ls -s /bin/ls __ls__

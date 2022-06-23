@@ -1,2 +1,2 @@
 #!/bin/bash
-saz
+ls -lan
